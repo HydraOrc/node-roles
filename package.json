@@ -1,6 +1,6 @@
 {
 	"name"			: "roles",
-	"version"		: "0.0.4",
+	"version"		: "0.0.5",
 	"description"	: "NodeJS Role Management",
 	"homepage"		: "http://dresende.github.com/node-roles",
 	"keywords"		: [
